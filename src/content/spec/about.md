@@ -1,9 +1,11 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于
 
-::github{repo="saicaca/fuwari"}
+我叫周天佑，英文名 Andy Zhou，目前是复旦大学在读大学生。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+如果用一句话来介绍自己，我会说自己是一个有文科基因的编程爱好者。我在初中时热衷于 Flask 相关技术的开发，对 Python 有一定的研究，曾参加PyCon 2021 中学生圆桌会议，写过博客网站 [Flog](https://github.com/andyzhouty/Flog) 以及试图让 Flask 更像 Django 框架 [Djask](https://github.com/andyzhouty/Djask)，目前这两个项目都处于 Archive 状态，暂时没有恢复更新的规划。在大学中可能会学习数据处理和分析相关的框架，并可能日后以之为自己的职业。
+
+我的中考发挥失利，当时的我将失利归因于耗费过多时间在编程上，于是乎高中期间中止。在高中期间我开始阅读文学与哲学相关作品。然而惭愧文学作品未有精读者，所以也不敢妄论喜爱程度的高下；在哲学中偏爱存在主义，尤其喜欢尼采的思想和他的《查拉图斯特拉如是说》，这本书曾助我度过高中的低谷期。我对摇滚音乐的喜好同样源于高中阶段，其中最爱万能青年旅店的作品，King Crimson 和 Pink Floyd 的歌曲也听过一些。我并未接触过乐理知识，对音乐的喜好也仅仅出于感性层面。
+
+出于朋友的推荐和自己在b站的浏览，在高三上学期我接触了崩坏三的剧情，由于其剧情过长我没有入坑再刷一遍而只是停留在云玩家的层面，乐土的剧情使我成为了爱莉厨。由于是同一个游戏ip，后来我入坑了崩坏·星穹铁道，并成为其玩家，厨上了大黑塔、白厄、昔涟，号上目前有01大黑塔、21白厄，后续也会争取抽21昔涟。
+
+通过写博客，我的目的是记录自己真实的生活和想法，并将它们以文字的形式更好地表达出来。我的社交需求无需通过博客来实现，我也不想被键盘侠所困扰，因此我的博客不会开放评论区。如果我的文字能有幸使你产生共鸣，这种感觉留在记忆里便好，无需有形的评论。
